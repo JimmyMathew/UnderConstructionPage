@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Launch &mdash; 100% Free Fully Responsive HTML5 Template by FREEHTML5.co</title>
+	<title>Live Productionz</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -53,7 +53,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 text-center">
-					<div id="fh5co-logo"><a href="index.html">Live Productionz<strong>.</strong></a></div>
+					<div id="fh5co-logo"><img src="images/logo.jpg" style="width: 200px;height: 60px;"alt="Smiley face" height="42" width="42"></div>
 				</div>
 			</div>
 		</div>
@@ -141,7 +141,7 @@
 	<script src="js/main.js"></script>
 
 	<script>
-    var d = new Date(new Date().getTime() + 50 * 120 * 120 * 2000);
+    var d = new Date(new Date().getTime() + 47 * 120 * 120 * 2000);
 
     // default example
     simplyCountdown('.simply-countdown-one', {
