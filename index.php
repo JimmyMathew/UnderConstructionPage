@@ -6,7 +6,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Live Productionz</title>
+	<title>Fun Zone</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -53,7 +53,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 text-center">
-					<div id="fh5co-logo"><img src="images/logo.jpg" style="width: 200px;height: 60px;"alt="Smiley face" height="42" width="42"></div>
+					<div id="fh5co-logo"><img src="images/logo.jpg" style="width: 200px;height: 75px;"alt="Smiley face" height="42" width="42"></div>
 				</div>
 			</div>
 		</div>
@@ -68,8 +68,8 @@
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
 							<h1>Site Under Construction!</h1>
 							<h2>In the mean time you can get in touch with us...</h2>
-							<h2><i class="icon-mobile"></i> 8148883336/8015663336</h2>
-							<h2><i class="icon-mail"></i> contact@liveproductionz.com</h2>
+							<h2><i class="icon-mobile"></i> 9841536596 / 9841519595</h2>
+							<h2><i class="icon-mail"></i> janafunzonechennai@gmail.com</h2>
 							<div class="simply-countdown simply-countdown-one"></div>
 							<!-- <div class="row">
 								<h2>Notify me when it's ready</h2>
